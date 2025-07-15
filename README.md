@@ -1,8 +1,8 @@
 # bbbc-website
 Planning and building BBBC's church website.
 
-    Welcome to the official repository for the BBBC Church Website! 
-    This project aims to create an engaging, user-friendly platform to inform, inspire, and connect our church community.
+   Welcome to the official repository for the BBBC Church Website! 
+   This project aims to create an engaging, user-friendly platform to inform, inspire, and connect our church community.
 
 Project Goals
 
