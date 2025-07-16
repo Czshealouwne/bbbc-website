@@ -24,8 +24,6 @@ We believe every digital tool should amplify the church’s mission. This site s
 | CMS / Assets | Cloudinary, Airtable, Markdown | Sermon uploads & content flexibility |
 | Hosting      | Netlify or Vercel             | Fast deployment & CI integration   |
 
-> ⚠️ Customize these to reflect actual repo contents and tools used in deployment.
-
 ---
 
 ## 🚀 Key Features
@@ -49,7 +47,7 @@ We believe every digital tool should amplify the church’s mission. This site s
 
 ## ✍️ Contributors & Roles
 
-- 🖥️ Tech Team Lead: *[Name or handle]*  
+- 🖥️ Tech Team Lead: *[Chislon Chua]*  
 - 🎙️ Sermon Editor: *BBBC Worship Ministry*  
 - 📐 Layout & Design: *[Graphic Lead or Designer]*  
 - 🛠️ Site Maintenance: *Church Tech Volunteers*  
@@ -69,3 +67,13 @@ npm install
 
 # Run local server
 npm run dev
+
+
+## 🤝 Connect & Contribute
+Whether you’re a developer, designer, or ministry volunteer, we welcome your ideas and contributions!
+
+📬 Email: contact@bbbc.org.ph
+
+🔗 Website: www.bbbc.org.ph
+
+💬 Join the team Slack or WhatsApp group via internal invite
