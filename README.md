@@ -55,6 +55,15 @@ We believe every digital tool should amplify the church’s mission. This site s
 
 ---
 
+## 🤝 Connect & Contribute
+Whether you’re a developer, designer, or ministry volunteer, we welcome your ideas and contributions!
+
+📬 Email: contact@bbbc.org.ph
+
+🔗 Website: www.bbbc.org.ph
+
+💬 Join the team Slack or WhatsApp group via internal invite
+
 ## 📂 Setup & Deployment
 
 ```bash
@@ -68,12 +77,5 @@ npm install
 # Run local server
 npm run dev
 
+---
 
-## 🤝 Connect & Contribute
-Whether you’re a developer, designer, or ministry volunteer, we welcome your ideas and contributions!
-
-📬 Email: contact@bbbc.org.ph
-
-🔗 Website: www.bbbc.org.ph
-
-💬 Join the team Slack or WhatsApp group via internal invite
