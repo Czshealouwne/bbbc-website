@@ -4,12 +4,13 @@
    Welcome to the official repository for the BBBC Church Website! 
    This project aims to create an engaging and user-friendly platform that informs, inspires, and connects our church community.
 
-<b>Project Goals</b>
-
-   -Provide a welcoming online presence for visitors and members
-   -Share sermons, devotionals, and resources
-   -Highlight ministries, events, and opportunities to get involved
-   -Facilitate prayer requests and community interaction
+<ul>
+   <b>Project Goals</b>
+   <li>Provide a welcoming online presence for visitors and members</li>
+   <li>Share sermons, devotionals, and resources</li>
+   <li>Highlight ministries, events, and opportunities to get involved</li>
+   <li>Facilitate prayer requests and community interaction</li>
+</ul>
 
 <b>Features</b>
 
